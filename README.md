@@ -27,16 +27,24 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=Microsoft SQL Server"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-Python-2d2d2d?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-SQL-2d2d2d?style=flat-square&logo=Microsoft SQL Server"/>
+<img src="https://img.shields.io/badge/-Git-2d2d2d?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure"/>
 <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter"/>
 <img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify"/>
 <img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark"/>
 <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi"/>
+</p>
+
+<h3 align="center">Learning:</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB"/>
 </p>
 
 
