@@ -1,15 +1,16 @@
 <h2 align="left">Hi there, my name is Tiago</h2>
 
 
-- 🎓 I completed a Master's in Mathematical Modelling and Computation from the Technical University of Denmark
-- 💻 I’m currently working at Deloitte 
-- ✔️ My current goal is to advance my Data Science and Data Engineering skills
-- 💖 I love mathematics, programming, data science and learning new things 
+- 🎓 Completed my MSc. in Mathematical Modelling and Computation from the Technical University of Denmark
+- 💻 Working at Deloitte 
+- ✔️ My current goal is to advance my Data Engineering skills
+- 💖 I love math, programming, working with data and learning new tech 
 
-
+<!--
 ### Languages and Tools 
 
 <br />
+
 <p align="left">
   <code><img src="logos/python-original-wordmark.svg" alt="python" width="40" height="40"  /></code>&nbsp;
   <code><img src="logos/csharp-original.svg" alt="csharp" width="40" height="40"  /></code>&nbsp;
@@ -21,9 +22,23 @@
   <code><img src="logos/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40"  /></code>&nbsp;
   <code><img src="logos/amazon.svg" alt="python" width="40" height="40"  /></code>&nbsp;
   <code><img src="logos/unity-original.svg" alt="unity" width="40" height="40"  /></code>&nbsp;
-  <code><img src="logos/jira-original-wordmark.svg" alt="jira" width="40" height="40"  /></code>&nbsp;
-  <code><img src="logos/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"  /></code>&nbsp;
 </p>
+-->
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=Microsoft SQL Server"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter"/>
+<img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify"/>
+<img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark"/>
+<img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi"/>
+</p>
+
 
 <br />
 
