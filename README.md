@@ -1,9 +1,7 @@
 <h2 align="left">Hi there, my name is Tiago</h2>
 
-
-- 🎓 Completed my MSc. in Mathematical Modelling and Computation from the Technical University of Denmark
-- 💻 Working at Deloitte 
-- ✔️ My current goal is to advance my Data Engineering skills
+- ✔️ Always working on advancing my Data Engineering and Programming skills
+- 🎓 MSc. in Mathematical Modelling and Computation - Technical University of Denmark
 - 💖 I love math, programming, working with data and learning new tech 
 
 <!--
@@ -30,6 +28,8 @@
 <img src="https://img.shields.io/badge/-Python-2d2d2d?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-SQL-2d2d2d?style=flat-square&logo=Microsoft SQL Server"/>
 <img src="https://img.shields.io/badge/-Git-2d2d2d?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/-MSSQL Server-black?style=flat-square&logo=microsoft%20sql%20server"/>
 <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure"/>
 <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
@@ -38,13 +38,15 @@
 <img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify"/>
 <img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark"/>
 <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi"/>
+<img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity"/>
 </p>
 
 <h3 align="center">Learning:</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka"/>
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB"/>
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka"/>
+
 </p>
 
 
