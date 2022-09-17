@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/-Git-2d2d2d?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
 <img src="https://img.shields.io/badge/-MSSQL Server-black?style=flat-square&logo=microsoft%20sql%20server"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL"/>
 <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure"/>
 <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
