@@ -22,7 +22,7 @@
   <code><img src="logos/unity-original.svg" alt="unity" width="40" height="40"  /></code>&nbsp;
 </p>
 -->
-<h2 align="center">Tech</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-2d2d2d?style=flat-square&logo=python"/>
