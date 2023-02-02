@@ -49,8 +49,9 @@
 
 <h3 align="center">Learning:</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB"/>
+<img src="https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apacheairflow"/>
 <img src="https://img.shields.io/badge/-GitHub Actions-black?style=flat-square&logo=githubactions"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB"/>
 <img src="https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka"/>
 
 </p>
