@@ -1,10 +1,11 @@
 <h2 align="left">Hi there! </h2>
 
+<h4 align="left">What I do here </h4>
 
 - 💻 Experimenting with new tech
 - ✔️ Advancing my Data Engineering and Programming skills
-<!-- - 🎓 MSc. Mathematical Modelling and Computation - Technical University of Denmark -->
 - 💖 Math, programming & data
+<!-- - 🎓 MSc. Mathematical Modelling and Computation - Technical University of Denmark -->
 
 <!--
 ### Languages and Tools 
