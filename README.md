@@ -1,7 +1,9 @@
-<h2 align="left">Hi there, my name is Tiago</h2>
+<h2 align="left">Hi there! </h2>
 
+
+- 💻 Experimenting with new tech
 - ✔️ Advancing my Data Engineering and Programming skills
-- 🎓 MSc. Mathematical Modelling and Computation - Technical University of Denmark
+<!-- - 🎓 MSc. Mathematical Modelling and Computation - Technical University of Denmark -->
 - 💖 Math, programming & data
 
 <!--
