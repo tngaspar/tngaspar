@@ -27,37 +27,52 @@
 -->
 <h2 align="center">Languages & Tools</h2>
 
+<h3 align="center">Core Skills</h3>
+
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-2d2d2d?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-SQL-2d2d2d?style=flat-square&logo=Microsoft SQL Server"/>
 <img src="https://img.shields.io/badge/-Git-2d2d2d?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/-MSSQL Server-black?style=flat-square&logo=microsoft%20sql%20server"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL"/>
-<img src="https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=Elasticsearch"/>
-
+<img src="https://img.shields.io/badge/-MSSQL Server-black?style=flat-square&logo=microsoft%20sql%20server"/>
 <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/-Oracle Cloud-black?style=flat-square&logo=oracle"/>
-<img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
-<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter"/>
-<img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify"/>
+</p>
+
+<h3 align="center">Past Experience</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash"/>
+<img src="https://img.shields.io/badge/-Proxmox-black?style=flat-square&logo=proxmox"/>
+<img src="https://img.shields.io/badge/-SSIS-black?style=flat-square&logo=SSIS"/>
+<img src="https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau"/>
+<img src="https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=Elasticsearch"/>
 <img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark"/>
 <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi"/>
-<img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity"/>
 <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
-
+<img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/-Oracle Cloud-black?style=flat-square&logo=oracle"/>
+<img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify"/>
+<img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB"/>
 </p>
 
-<h3 align="center">Learning:</h3>
+<h3 align="center">Learning in Progress</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apacheairflow"/>
-<img src="https://img.shields.io/badge/-GitHub Actions-black?style=flat-square&logo=githubactions"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB"/>
-<img src="https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka"/>
-
+<img src="https://img.shields.io/badge/-DuckDB-black?style=flat-square&logo=duckdb"/>
 </p>
+
+<!-- <h3 align="center">In the Future</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-GitHub Actions-black?style=flat-square&logo=githubactions"/>
+<img src="https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/-DBT-black?style=flat-square&logo=dbt"/>
+</p> -->
 
 
 <br />
