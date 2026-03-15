@@ -31,7 +31,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-2d2d2d?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-SQL-2d2d2d?style=flat-square&logo=Microsoft SQL Server"/>
+<img src="https://img.shields.io/badge/-SQL-2d2d2d?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Git-2d2d2d?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
@@ -39,6 +39,12 @@
 <img src="https://img.shields.io/badge/-MSSQL Server-black?style=flat-square&logo=microsoft%20sql%20server"/>
 <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter"/>
+</p>
+
+<h3 align="center">Learning in Progress</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apacheairflow"/>
+<img src="https://img.shields.io/badge/-DuckDB-black?style=flat-square&logo=duckdb"/>
 </p>
 
 <h3 align="center">Past Experience</h3>
@@ -61,11 +67,6 @@
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB"/>
 </p>
 
-<h3 align="center">Learning in Progress</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apacheairflow"/>
-<img src="https://img.shields.io/badge/-DuckDB-black?style=flat-square&logo=duckdb"/>
-</p>
 
 <!-- <h3 align="center">In the Future</h3>
 <p align="center">
